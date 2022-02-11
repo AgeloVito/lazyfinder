@@ -9,5 +9,6 @@ cargo build --release
 
 # 效果
 
+<img width="964" alt="image" src="https://user-images.githubusercontent.com/38530231/153534773-b4bbc7b3-8e62-4ab7-949b-b0bb38aac126.png">
 
 
